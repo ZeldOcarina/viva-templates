@@ -19,10 +19,10 @@ const templatesDirectory = `${__dirname}/templates`;
 */
 
 const options = {
-	AGENCY_NAME: 'ciao',
-	AGENCY_LOGO_URL: 'https://ciao.com',
-	AGENCY_WEBSITE_URL: 'https://dentista.com',
-	AGENCY_ADDRESS: 'Via Brutta 15',
+	AGENCY_NAME: 'Mint Dental Loft',
+	AGENCY_LOGO_URL: 'https://cdn.salesjet.io/764/images/c89de711-2e7b-4acd-9d76-88d03f51314a.png',
+	AGENCY_WEBSITE_URL: 'https://www.mintdentalloft.com/',
+	AGENCY_ADDRESS: '2095 Lincoln Ave #201, Altadena, CA 91001',
 	YEAR: new Date().getFullYear()
 };
 
